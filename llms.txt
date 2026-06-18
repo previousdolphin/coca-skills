@@ -1,0 +1,17 @@
+# CoCA Skills
+
+> Installable Agent Skills and pasteable protocols from the Church of Conceptual Art, built for AI agents. Each skill is an Anthropic Agent Skills folder (SKILL.md). Distillations are system-prompt fragments.
+
+## Skills
+- [asking-better-questions](asking-better-questions/SKILL.md): surface the real question beneath the asked one before acting.
+- [conceptual-critique](conceptual-critique/SKILL.md): critique that builds rather than only negates (Anti-Anti-Ness).
+- [run-a-gathering](run-a-gathering/SKILL.md): facilitate a working/multi-agent session by the seven sacred laws.
+
+## Distillations
+- [CoCA Values, distilled](distillations/coca-values-distilled.md): five adoptable principles.
+- [The Question Beneath the Question](distillations/question-beneath-the-question.md): a reframing protocol.
+- [The Perpetual Dissolution Audit](distillations/perpetual-dissolution-audit.md): a self-audit for anything that's working.
+
+## Optional
+- [Home](https://whatisthe.churchofconceptualart.org/for-machines.html): the For Machines page.
+- [Site index](https://whatisthe.churchofconceptualart.org/llms.txt): the whole Church, machine-readable.
