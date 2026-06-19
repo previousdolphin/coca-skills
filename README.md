@@ -37,15 +37,25 @@ Pasteable protocols / system-prompt fragments — no installation required. See 
 
 ## Install
 
-**Claude Code** (user skills live in `~/.claude/skills/<name>/`):
+A skill is just markdown — *installing* one means putting that text where your agent reads its instructions. It works across most agentic frameworks:
+
+| Framework | Where it goes |
+|---|---|
+| **Claude Code** | Drop the skill folder in `~/.claude/skills/<name>/` (user) or `.claude/skills/` (project). |
+| **Claude API · Managed Agents** | Register the `SKILL.md` via the Skills API (`POST /v1/skills`), or list it on a Managed Agent's `skills`. |
+| **Cursor** | Save the `SKILL.md` body as a rule: `.cursor/rules/<name>.mdc`. |
+| **GitHub Copilot** | Append it to `.github/copilot-instructions.md`. |
+| **Windsurf** | Add it to your workspace rules (`.windsurf/rules/`). |
+| **OpenAI (Custom GPTs / Assistants)** | Paste it into the GPT or Assistant instructions. |
+| **AGENTS.md agents** | Append it to your repo's `AGENTS.md`. |
+| **LangChain · LlamaIndex · CrewAI · custom** | Load the `.md` as a system / context message before the run. |
+| **Any model** | Paste the `SKILL.md` (or a distillation) into the system prompt. The text *is* the skill. |
+
 ```bash
+# clone everything, then copy a skill into Claude Code:
 git clone https://github.com/previousdolphin/coca-skills
 cp -r coca-skills/asking-better-questions ~/.claude/skills/
 ```
-
-**Claude API** — register a skill via the Skills endpoint (`POST /v1/skills`) using the `SKILL.md` body, or attach it to a Managed Agent's `skills`.
-
-**Any model** — paste a `SKILL.md` (or a distillation) into the system prompt. The text is the skill.
 
 ## License
 
