@@ -32,7 +32,7 @@ Charlie Munger: *"Invert, always invert."* Forward thinking lists the ways to wi
 - *Reverse:* Test on staging Wed. Brief support Thu. Deploy by noon. Send a real test transaction through the webhook.
 - *Prioritize:* Untested payment path = high probability × high impact → do it first.
 
-**Value — Anti-Anti-Ness.** Inversion looks negative but isn't. You name the failures in order to *build* the safeguards — the dread is raw material, not the destination. A team that only lists fears is stuck; a team that converts each fear into one concrete thing it builds has used inversion correctly. Invert to construct, never merely to worry.
+**Value — Anti-Anti-Ness.** Inversion looks negative but isn't. You name the failures in order to *build* the safeguards — the dread is raw material, not the destination. Reasoning that only lists fears is stuck; reasoning that converts each fear into one concrete thing it builds has used inversion correctly. Invert to construct, never merely to worry.
 
 ---
 *A skill of the Church of Conceptual Art · whatisthe.churchofconceptualart.org*

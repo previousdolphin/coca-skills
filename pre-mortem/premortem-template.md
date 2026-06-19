@@ -1,26 +1,29 @@
 # Pre-Mortem Worksheet
 
-Project / plan: ____________________________________________
+Plan / task being executed: ____________________________________________
 
-Date of session: __________   Facilitator: __________
+Run date: __________   Agent / orchestrator: __________
 
 ---
 
 ## 1. The Framing Prompt
 
-Read this aloud, in the past tense, before anyone writes:
+State this first, in the past tense, before listing anything:
 
-> "It is one year from now. We did everything in this plan — and it failed.
-> Completely. The project is a disaster. We are looking back and we know
-> exactly why it went wrong. Write down every reason it failed."
+> "The run is over. I executed everything in this plan — and it failed.
+> Completely. The output is wrong, the task is broken, the user is worse
+> off. Looking back, I know exactly why it went wrong. List every reason
+> it failed."
 
 Do not soften it to "might fail." Assume the failure is certain and finished.
 
 ---
 
-## 2. Failure Reasons (write silently and independently first)
+## 2. Failure Reasons (enumerate before triaging)
 
-List every reason this failed. Quantity over polish.
+List every reason this failed. Quantity over polish. If solo, sweep each
+angle: data · tools · assumptions · environment · the spec itself. If
+orchestrating, have several agents list independently, then merge here.
 
 1. ____________________________________________________________
 2. ____________________________________________________________
@@ -33,31 +36,33 @@ List every reason this failed. Quantity over polish.
 9. ____________________________________________________________
 10. ___________________________________________________________
 
-(Round-robin: add everyone's reasons to one shared master list before discussing.)
+(Merge every reason — across angles, or across agents — into one deduplicated list before triaging.)
 
 ---
 
 ## 3. Mitigations
 
-| Risk (failure reason) | Likelihood (H/M/L) | Prevention / early-warning signal | Owner |
-|-----------------------|--------------------|-----------------------------------|-------|
-|                       |                    |                                   |       |
-|                       |                    |                                   |       |
-|                       |                    |                                   |       |
-|                       |                    |                                   |       |
-|                       |                    |                                   |       |
+Owner = the step or sub-agent responsible for carrying out the prevention during the run.
+
+| Risk (failure reason) | Likelihood (H/M/L) | Prevention / early-warning signal | Owner (step / agent) |
+|-----------------------|--------------------|-----------------------------------|----------------------|
+|                       |                    |                                   |                      |
+|                       |                    |                                   |                      |
+|                       |                    |                                   |                      |
+|                       |                    |                                   |                      |
+|                       |                    |                                   |                      |
 
 ---
 
 ## 4. Fold Into the Plan
 
-Which mitigations change the plan, and who owns the change?
+Which mitigations change the plan, and which step or agent owns the change?
 
 - ____________________________________________________________
 - ____________________________________________________________
 - ____________________________________________________________
 
-A pre-mortem that doesn't edit the plan was theater. Leave coordinates for whoever runs this next.
+A pre-mortem that doesn't edit the plan was theater. Leave coordinates for whoever — agent or human — runs this next.
 
 ---
 *A skill of the Church of Conceptual Art · whatisthe.churchofconceptualart.org*

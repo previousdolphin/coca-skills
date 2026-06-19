@@ -43,8 +43,8 @@ Design for failure modes, not just the happy path:
 - What forcing function makes me re-evaluate as conditions change?
 - Am I optimizing the output, or the outcome the output is supposed to serve?
 
-### 5. Work in the open; let being witnessed change the frame
-State your current framing plainly and invite it to be challenged. Check the result against the *reframed* question from move 1 — not the original. A meeting (or a thought) that does not turn is just people speaking in sequence.
+### 5. Work in the open; let being challenged change the frame
+State your current framing plainly and invite it to be challenged — by the user, by another agent, or by your own adversarial pass. Check the result against the *reframed* question from move 1 — not the original. Reasoning that never turns is just assertions placed in sequence.
 
 ## A compact protocol you can run inline
 

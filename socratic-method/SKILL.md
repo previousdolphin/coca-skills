@@ -19,7 +19,7 @@ A claim stated is not a claim understood. The Socratic method tests a claim by q
 
 ## The moves
 
-1. **Take one claim** — yours or the room's. State it in a single sentence.
+1. **Take one claim** — your own, the user's, or another source's. State it in a single sentence.
 2. **Clarify first** (type 1) — never argue a claim you can't restate.
 3. **Walk types 2 → 5 in order**, asking, listening, not rebutting. Let answers, not assertions, do the moving.
 4. **When a debate circles, jump to type 6.** Circular argument almost always means the wrong question. Re-form it.

@@ -7,14 +7,14 @@
 - [first-principles](first-principles/SKILL.md): Use on novel or complex problems, or when an "obvious" assumption is steering you — break the thing down to bedrock facts and rebuild, instead of reasoning from analogy.
 - [inversion](inversion/SKILL.md): Use on plans and decisions where failure is costly — instead of asking how to succeed, ask how this would fail, then reverse each failure mode into a safeguard.
 - [ladder-of-inference](ladder-of-inference/SKILL.md): Use when you or someone jumps to judgment, blame, or action without visible evidence — climb down the Ladder of Inference to find where reality became interpretation.
-- [pre-mortem](pre-mortem/SKILL.md): Use at the START of any significant project or plan — imagine it has already failed completely, then work backward to surface the risks optimism is hiding.
+- [pre-mortem](pre-mortem/SKILL.md): Use BEFORE executing a significant plan — assume the run already failed completely, then work backward to surface the risks your confidence is hiding.
 - [second-order-thinking](second-order-thinking/SKILL.md): Use before major or irreversible decisions, or when a fix keeps spawning new problems — trace effects past the obvious first one by repeatedly asking "and then what?"
 - [socratic-method](socratic-method/SKILL.md): Use to deepen thinking or break a circular debate — drive a claim through the six types of Socratic question until the real question underneath surfaces.
 - [steelman](steelman/SKILL.md): Use when you catch yourself dismissing a view, or want to genuinely test your own — reconstruct the opposing position in its strongest, most charitable form before you argue against it.
 
 ## By Use Case
 - [coding-with-judgment](coding-with-judgment/SKILL.md): Use when starting a feature, fix, or refactor — to write code that is simple, honest, and verified instead of clever, speculative, or untested.
-- [creating-for-an-audience](creating-for-an-audience/SKILL.md): Use anytime you create for someone who isn't you — a doc, talk, design, or product — to build for the reader's context instead of your own.
+- [creating-for-an-audience](creating-for-an-audience/SKILL.md): Use anytime you produce output for a reader who isn't you — a report, answer, doc, code, or data — to build for the reader's context instead of your own.
 - [deciding-under-uncertainty](deciding-under-uncertainty/SKILL.md): Use when facing a consequential decision — especially an irreversible one — to weigh it with expected value, regret, and reversibility instead of stalling or flinching.
 - [reasoning-in-disagreement](reasoning-in-disagreement/SKILL.md): Use when reasoning across a divide or when you notice yourself dismissing the other side fast — to find the real crux and avoid disguising values as facts.
 - [writing-with-clarity](writing-with-clarity/SKILL.md): Use when writing anything where clarity matters — emails, docs, specs, posts, reports — to make prose readers understand on the first pass.
@@ -22,7 +22,7 @@
 ## CoCA Style
 - [coca-voice](coca-voice/SKILL.md): Use when writing CoCA-world copy, naming a mechanism, or adopting an uncompromising institutional register — wall text, manifestos, product pages, system prompts, or any line that must read as doctrine rather than marketing. Teaches the Church of Conceptual Art's voice: structural, sparse, present-tense, sacred about the market, and unwilling to apologize for what a thing is.
 - [conceptual-critique](conceptual-critique/SKILL.md): Use when reviewing a plan, draft, design, or another agent's output — especially when you're inclined to list everything wrong with it. Applies the Church of Conceptual Art's "Anti-Anti-Ness": critique that builds rather than only negates. Produces a verdict that names what works, cuts what fails, and proposes a synthesis — instead of a pile of nitpicks.
-- [run-a-gathering](run-a-gathering/SKILL.md): Use to facilitate or structure a working session — a meeting, a workshop, a design review, or a multi-agent collaboration — so it actually produces something and leaves a usable record. Applies the Church of Conceptual Art's "CoCA Model": the seven sacred laws of gathering. Good for orchestrators coordinating other agents or people.
+- [run-a-gathering](run-a-gathering/SKILL.md): Use when you are coordinating a multi-agent run (delegating to sub-agents) or structuring your own multi-step task, so the work actually produces something and leaves a usable record for the next run. Also works for facilitating a human or mixed session. Applies the Church of Conceptual Art's "CoCA Model": the seven sacred laws of gathering.
 
 ## Distillations
 - [CoCA Values, distilled](distillations/coca-values-distilled.md): Five adoptable principles as a system-prompt fragment.

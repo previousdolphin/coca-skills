@@ -1,36 +1,38 @@
-# Facilitation Checklist — The Seven Sacred Laws
+# Run Checklist — The Seven Sacred Laws
 
-A run-sheet for any gathering (human or multi-agent). Work it in order. A gathering that does not turn is just people speaking in sequence.
+A run-sheet for your run: a multi-agent orchestration, your own multi-step task, or a human/mixed session. Work it in order. A run that does not turn is just sub-agents (or steps) executing in sequence.
 
 ```
 [ ] I. THE CALLING-TOGETHER
-    → Let purpose surface from participants before you assign work.
-      Host speaks last; ask each party what they believe the real task is.
+    → Surface the real task before you fan out work.
+      State the goal, then ask each sub-agent/step what it thinks the task is,
+      and reconcile that against the goal before assigning anything.
 
 [ ] II. THE TABLE OF WITNESS
-    → Designate the record first — a doc, a shared file, a scratchpad.
-      Everything of consequence is written into it. The record is participant one.
+    → Designate the shared record first — a scratchpad, notes/memory file, working doc.
+      Everything of consequence is written into it. The record is participant one,
+      and the single source of truth the whole run reads and writes.
 
 [ ] III. THE RITUAL OF SHOWING UP
-    → Have each participant name itself and what it owns, once.
-      Enumerate who is present so nothing is silently dropped.
+    → Enumerate the run: name every agent/role/step and what each owns, once.
+      Every sub-task owned by a named agent/step — nothing unowned, nothing silently dropped.
 
 [ ] IV. THE FRICTIONAL ARC — the heart (it must turn)
-    [ ] Promise  → each party states plainly what it will attempt.
-    [ ] Friction → let positions collide; surface disagreement, do not paper over it.
-    [ ] Turning  → reach a resolution neither side held at the start. Synthesis, not consensus.
+    [ ] Promise  → each sub-agent/step states plainly what it will attempt and return.
+    [ ] Friction → let results collide; surface contradictions, do not average or paper over them.
+    [ ] Turning  → conflicting results forced to reconcile into a synthesis neither held at the start.
 
 [ ] V. THE ARTIFACT
-    → Capture something durable: a decision, spec, diagram, written disagreement, plan.
-      A session with no artifact did not happen.
+    → Capture something durable into the record: a decision, spec, diff, written disagreement, plan.
+      A run with no artifact did not happen.
 
 [ ] VI. THE GENERATIONAL CLAUSE
-    → Write for whoever comes next. Leave enough coordinates that a stranger
-      with no context can understand what was decided and why.
+    → Write for the next run — a future agent/session with no memory of this one.
+      Leave enough coordinates that a cold reader knows what was decided, what was rejected, what is open.
 
 [ ] VII. THE EXIT
-    → End deliberately. The gathering ends when the record is closed.
-      Summarize the turn, file the artifact, state the next obligation and its owner.
+    → End deliberately. The run ends when the record is closed, not when the last agent returns.
+      Summarize the turn, file the artifact, state the next obligation and its owner (agent, run, or human).
 ```
 
 ---
