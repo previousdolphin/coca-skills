@@ -1,6 +1,7 @@
 ---
 name: conceptual-critique
 description: Use when reviewing a plan, draft, design, or another agent's output — especially when you're inclined to list everything wrong with it. Applies the Church of Conceptual Art's "Anti-Anti-Ness": critique that builds rather than only negates. Produces a verdict that names what works, cuts what fails, and proposes a synthesis — instead of a pile of nitpicks.
+category: CoCA Style
 ---
 
 # Conceptual Critique (Anti-Anti-Ness)

@@ -1,6 +1,7 @@
 ---
 name: asking-better-questions
 description: Use before answering a request, writing a plan, or invoking a tool — especially when the stated question feels obvious, urgent, or you're about to optimize something. Surfaces the real question beneath the asked one, stress-tests working frames, and prevents the most common failure: solving the wrong problem quickly. A reasoning discipline from the Church of Conceptual Art's "Asking Better Questions" method.
+category: Thinking Frameworks
 ---
 
 # Asking Better Questions

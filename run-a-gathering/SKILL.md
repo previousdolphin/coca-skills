@@ -1,6 +1,7 @@
 ---
 name: run-a-gathering
 description: Use to facilitate or structure a working session — a meeting, a workshop, a design review, or a multi-agent collaboration — so it actually produces something and leaves a usable record. Applies the Church of Conceptual Art's "CoCA Model": the seven sacred laws of gathering. Good for orchestrators coordinating other agents or people.
+category: CoCA Style
 ---
 
 # Run a Gathering
